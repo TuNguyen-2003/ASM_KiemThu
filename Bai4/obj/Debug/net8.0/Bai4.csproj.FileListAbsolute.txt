@@ -1,0 +1,14 @@
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\bin\Debug\net8.0\Bai4.exe
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\bin\Debug\net8.0\Bai4.deps.json
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\bin\Debug\net8.0\Bai4.runtimeconfig.json
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\bin\Debug\net8.0\Bai4.dll
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\bin\Debug\net8.0\Bai4.pdb
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfoInputs.cache
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.AssemblyInfo.cs
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.csproj.CoreCompileInputs.cache
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.dll
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\refint\Bai4.dll
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.pdb
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\Bai4.genruntimeconfig.cache
+E:\KiemThuNangCao\ASM_KiemThuNangCao_tunaph46732\Bai4\obj\Debug\net8.0\ref\Bai4.dll
